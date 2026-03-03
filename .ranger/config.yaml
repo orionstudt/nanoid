@@ -1,0 +1,4 @@
+info:
+  displayName: Nano ID
+  description: A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
+  tags: [generator, id, identifier, javascript, typescript, nano]
