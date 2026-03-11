@@ -9,7 +9,7 @@ hello world
 
 **English** | [日本語](./README.ja.md) | [Русский](./README.ru.md) | [简体中文](./README.zh-CN.md) | [Bahasa Indonesia](./README.id-ID.md) | [한국어](./README.ko.md)
 
-A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
+A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 
 > “An amazing level of senseless perfectionism,
 > which is simply impossible not to respect.”
